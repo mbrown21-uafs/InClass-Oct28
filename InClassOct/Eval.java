@@ -20,7 +20,7 @@ public class Eval {
 					+ ", Character: " + sequences[index].getCh()
 					+ ", Length: " + sequences[index].getLength());
 		}
-	}
+	} 
 		
 	public static Sequence[] sequences(char[] array) {
 	   

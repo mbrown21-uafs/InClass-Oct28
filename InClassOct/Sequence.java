@@ -1,5 +1,5 @@
 package InClassOct;
-
+ 
 public class Sequence {
 	private int start;
 	private int end;
